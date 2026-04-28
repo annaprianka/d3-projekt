@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+.city-label {
+  font-size: 11px;
+  text-anchor: middle;
+  fill: #2C2C2A;
+}
